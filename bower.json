@@ -4,7 +4,8 @@
   "authors": [
     "Faruk Çam <mail@farukix.com>"
   ],
-  "description": "",
+  "description": "User Policy Notification Bar",
   "main": "",
+  "keywords":"cookie,cookie-bar,cookie-notification-bar,policy,policy-bar",
   "license": "MIT"
 }
