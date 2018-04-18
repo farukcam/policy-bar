@@ -1,2 +1,2 @@
-# policy-bar
-User Policy Information Bar
+# Policy Bar
+User Policy Notification Bar
